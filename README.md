@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myadavindxx
-- 👀 I’m interested in Python, Django
-- 🌱 I’m currently learning REST API, Snowflake, Azure
+- 👀 I’m interested in Python, Django, FastAPI
+- 🌱 I’m currently learning REST API, Snowflake, Azure, GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
